@@ -1,0 +1,12 @@
+#left-side{
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    background-color: transparent;
+}
+#right-side{
+    position: absolute;
+    top: 50%;
+    left: 90%;
+    background-color: transparent;
+}
